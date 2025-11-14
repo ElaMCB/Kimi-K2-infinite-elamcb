@@ -1,3 +1,5 @@
+>  **128 k-RAG fork** | code & weights: [`rag-finetune`](https://github.com/ElaMCB/Kimi-K2-infinite-elamcb/tree/rag-finetune) | issues/PRs welcome
+
 <div align="center">
   <picture>
       <img src="figures/kimi-logo.png" width="30%" alt="Kimi K2: Open Agentic Intelligence">
